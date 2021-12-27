@@ -1,0 +1,15 @@
+D:\Users\hakan\Desktop\Deneme\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\hakan\Desktop\Deneme\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\Users\hakan\Desktop\Deneme\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\Users\hakan\Desktop\Deneme\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Users\hakan\Desktop\Deneme\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\Users\hakan\Desktop\Deneme\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\Users\hakan\Desktop\Deneme\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+D:\Users\hakan\Desktop\Deneme\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\Users\hakan\Desktop\Deneme\DataAccess\bin\Debug\net5.0\Entities.dll
+D:\Users\hakan\Desktop\Deneme\DataAccess\bin\Debug\net5.0\Entities.pdb
+D:\Users\hakan\Desktop\Deneme\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\Users\hakan\Desktop\Deneme\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\Users\hakan\Desktop\Deneme\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\Users\hakan\Desktop\Deneme\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\Users\hakan\Desktop\Deneme\DataAccess\obj\Debug\net5.0\DataAccess.pdb
