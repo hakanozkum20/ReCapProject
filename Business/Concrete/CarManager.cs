@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using Business.Abstract;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using System.Runtime.Serialization;
 
 namespace Business.Concrete
 {
@@ -12,6 +13,15 @@ namespace Business.Concrete
         public CarManager(ICarDal carDal)
         {
             _carDal = carDal;
+        }
+
+        public void Add(Car car)
+        {
+            if ( car.Descriptions.Length <= 2 || car.DailyPrice <1 )
+            {
+                System.Console.WriteLine("2 satýr olamaz");
+            }
+            _carDal.Add(car);
         }
 
         public List<Car> GetAll()

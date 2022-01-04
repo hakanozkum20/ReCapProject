@@ -2,6 +2,7 @@
 using Business.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
+using Entities.Concrete;
 
 namespace ConsoleUI
 {
@@ -12,6 +13,8 @@ namespace ConsoleUI
            
 
             CarManager carManager = new(new EfCarDal ());
+
+            carManager.Add(new Car { Descriptions="Volvo yeni",DailyPrice = 0, BrandId=1, ColorId=1, ModelYear="1992" });
 
             foreach (var car in carManager.GetAllByBrandId(1))
             {
