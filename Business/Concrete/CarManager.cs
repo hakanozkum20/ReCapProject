@@ -7,7 +7,7 @@ namespace Business.Concrete
 {
     public class CarManager : ICarService
     {
-        ICarDal _carDal;
+         ICarDal _carDal;
 
         public CarManager(ICarDal carDal)
         {
@@ -16,7 +16,13 @@ namespace Business.Concrete
 
         public List<Car> GetAll()
         {
+            //Ýþ kodlarý 
             return _carDal.GetAll();
+        }
+
+        public List<Car> GetAllByBrandId(int id)
+        {
+            return _carDal.GetAll(c => c.BrandId == id);
         }
     }
 }

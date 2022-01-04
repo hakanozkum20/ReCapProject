@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\hakan\\Desktop\\Deneme\\Business\\Business.csproj": {}
+    "D:\\Users\\hakan\\Desktop\\ReCapProject\\Business\\Business.csproj": {}
   },
   "projects": {
-    "D:\\Users\\hakan\\Desktop\\Deneme\\Business\\Business.csproj": {
+    "D:\\Users\\hakan\\Desktop\\ReCapProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\hakan\\Desktop\\Deneme\\Business\\Business.csproj",
+        "projectUniqueName": "D:\\Users\\hakan\\Desktop\\ReCapProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\Users\\hakan\\Desktop\\Deneme\\Business\\Business.csproj",
+        "projectPath": "D:\\Users\\hakan\\Desktop\\ReCapProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\hakan\\Desktop\\Deneme\\Business\\obj\\",
+        "outputPath": "D:\\Users\\hakan\\Desktop\\ReCapProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Users\\hakan\\Desktop\\Deneme\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Users\\hakan\\Desktop\\Deneme\\DataAccess\\DataAccess.csproj"
+              "D:\\Users\\hakan\\Desktop\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Users\\hakan\\Desktop\\ReCapProject\\DataAccess\\DataAccess.csproj"
               },
-              "D:\\Users\\hakan\\Desktop\\Deneme\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Users\\hakan\\Desktop\\Deneme\\Entities\\Entities.csproj"
+              "D:\\Users\\hakan\\Desktop\\ReCapProject\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Users\\hakan\\Desktop\\ReCapProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Users\\hakan\\Desktop\\Deneme\\DataAccess\\DataAccess.csproj": {
+    "D:\\Users\\hakan\\Desktop\\ReCapProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\hakan\\Desktop\\Deneme\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Users\\hakan\\Desktop\\ReCapProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Users\\hakan\\Desktop\\Deneme\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\Users\\hakan\\Desktop\\ReCapProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\hakan\\Desktop\\Deneme\\DataAccess\\obj\\",
+        "outputPath": "D:\\Users\\hakan\\Desktop\\ReCapProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Users\\hakan\\Desktop\\Deneme\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Users\\hakan\\Desktop\\Deneme\\Entities\\Entities.csproj"
+              "D:\\Users\\hakan\\Desktop\\ReCapProject\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Users\\hakan\\Desktop\\ReCapProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -104,6 +104,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -123,14 +129,14 @@
         }
       }
     },
-    "D:\\Users\\hakan\\Desktop\\Deneme\\Entities\\Entities.csproj": {
+    "D:\\Users\\hakan\\Desktop\\ReCapProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\hakan\\Desktop\\Deneme\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Users\\hakan\\Desktop\\ReCapProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Users\\hakan\\Desktop\\Deneme\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Users\\hakan\\Desktop\\ReCapProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\hakan\\Desktop\\Deneme\\Entities\\obj\\",
+        "outputPath": "D:\\Users\\hakan\\Desktop\\ReCapProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hakan\\AppData\\Roaming\\NuGet\\NuGet.Config",

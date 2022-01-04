@@ -5,6 +5,7 @@ namespace Business.Abstract
 {
     public interface ICarService
     {
-         List<Car> GetAll();
+        List<Car> GetAll();
+        List<Car> GetAllByBrandId(int id);
     }
 }

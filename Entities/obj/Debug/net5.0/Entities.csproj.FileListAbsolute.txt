@@ -10,3 +10,15 @@ D:\Users\hakan\Desktop\Deneme\Entities\obj\Debug\net5.0\Entities.dll
 D:\Users\hakan\Desktop\Deneme\Entities\obj\Debug\net5.0\ref\Entities.dll
 D:\Users\hakan\Desktop\Deneme\Entities\obj\Debug\net5.0\Entities.pdb
 D:\Users\hakan\Desktop\Deneme\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\Users\hakan\Desktop\ReCapProject\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\Users\hakan\Desktop\ReCapProject\Entities\bin\Debug\net5.0\Entities.dll
+D:\Users\hakan\Desktop\ReCapProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\Users\hakan\Desktop\ReCapProject\Entities\bin\Debug\net5.0\Entities.pdb
+D:\Users\hakan\Desktop\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\Users\hakan\Desktop\ReCapProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\hakan\Desktop\ReCapProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\Users\hakan\Desktop\ReCapProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\Users\hakan\Desktop\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\Users\hakan\Desktop\ReCapProject\Entities\obj\Debug\net5.0\Entities.dll
+D:\Users\hakan\Desktop\ReCapProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\Users\hakan\Desktop\ReCapProject\Entities\obj\Debug\net5.0\Entities.pdb
