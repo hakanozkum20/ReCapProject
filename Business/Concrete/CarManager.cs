@@ -3,6 +3,7 @@ using Business.Abstract;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using System.Runtime.Serialization;
+using Entities.DTOs;
 
 namespace Business.Concrete
 {
@@ -33,6 +34,11 @@ namespace Business.Concrete
         public List<Car> GetAllByBrandId(int id)
         {
             return _carDal.GetAll(c => c.BrandId == id);
+        }
+
+        public List<CarDetailDto> GetCarDetails()
+        {
+            return _carDal.GetCarDetails();
         }
     }
 }
