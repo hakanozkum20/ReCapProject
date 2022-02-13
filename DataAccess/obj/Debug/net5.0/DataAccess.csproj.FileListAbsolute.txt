@@ -28,3 +28,5 @@ D:\Users\hakan\Desktop\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.cspro
 D:\Users\hakan\Desktop\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.dll
 D:\Users\hakan\Desktop\ReCapProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
 D:\Users\hakan\Desktop\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\Users\hakan\Desktop\ReCapProject\DataAccess\bin\Debug\net5.0\Core.dll
+D:\Users\hakan\Desktop\ReCapProject\DataAccess\bin\Debug\net5.0\Core.pdb
